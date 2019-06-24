@@ -3,8 +3,8 @@
     {
         "alwaysShowTabs" : true,
         "defaultProfile" : "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-        "initialCols" : 120,
-        "initialRows" : 30,
+        "initialCols" : 100,
+        "initialRows" : 20,
         "keybindings" : 
         [
             {
@@ -204,14 +204,14 @@
     "profiles" : 
     [
         {
-            "acrylicOpacity" : 0.5,
-            "background" : "#012456",
+            "acrylicOpacity" : 0.3,
+            "background" : "#000000",
             "closeOnExit" : true,
             "colorScheme" : "Campbell",
             "commandline" : "powershell.exe",
             "cursorColor" : "#FFFFFF",
             "cursorShape" : "bar",
-            "fontFace" : "Consolas",
+            "fontFace" : "Meslo LG M for Powerline",
             "fontSize" : 10,
             "guid" : "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
             "historySize" : 9001,
@@ -220,7 +220,7 @@
             "padding" : "0, 0, 0, 0",
             "snapOnInput" : true,
             "startingDirectory" : "%USERPROFILE%",
-            "useAcrylic" : false
+            "useAcrylic" : true
         },
         {
             "acrylicOpacity" : 0.75,
