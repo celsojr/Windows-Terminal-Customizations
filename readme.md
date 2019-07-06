@@ -1,3 +1,9 @@
 # TL;DR
 
-The awesome instructions comes here
+Look at the screenshots of my Windows Terminal settings and if you like what you see, simply clone this repo locally and run the install script as administrator. Enjoy!
+
+PS. The install script is not fully tested :/
+
+References:  
+[TerminalAttractMode](https://github.com/shanselman/TerminalAttractMode)  
+[oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)  
