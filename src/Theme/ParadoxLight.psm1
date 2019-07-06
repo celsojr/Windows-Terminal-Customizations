@@ -8,6 +8,8 @@ function Write-Theme {
         $with
     )
 
+    $Host.UI.RawUI.WindowTitle = "Powershell"
+
     $lastColor = $sl.Colors.PromptBackgroundColor
     $prompt = Write-Prompt -Object $sl.PromptSymbols.StartSymbol -ForegroundColor $sl.Colors.PromptForegroundColor -BackgroundColor $sl.Colors.SessionInfoBackgroundColor
 

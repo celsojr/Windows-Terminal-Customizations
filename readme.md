@@ -1,7 +1,9 @@
 # TL;DR
 
-I've followed these [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) instructions and made some minor changes to the files as you can see here on this repo. Look at the difference between the commits to know where I've made the changes.
+Look at the screenshots of my Windows Terminal settings and if you like what you see, simply run the install script as administrator. Enjoy!
 
-I'm still doing some customizations but I think it's a good starting point.
+PS. The install script is not fully tested :/
 
-PS. Don't forget to install the correct ttf font if you haven't done yet.
+References:  
+[TerminalAttractMode](https://github.com/shanselman/TerminalAttractMode)  
+[oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)  
